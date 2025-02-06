@@ -87,9 +87,9 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 ## <p align="left" justify="middle"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJqaTFra2FyNzBlZ3JlNmlidjgwbWtmcTN4czJyN2ZzdTByd3pubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="35"> <b>GitHub Stats ⚡</b></p>
 
-[![Sarafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schr0Smi1ey&theme=cobalt&hide_border=true)](https://github.com/Schr0Smi1ey/github-readme-stats)
+[![Munia Akhter's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schr0Smi1ey&theme=cobalt&hide_border=true)](https://github.com/Schr0Smi1ey/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Munia123333t&theme=microsoft-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-[![Sarafat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=schr0smi1ey&custom_title=&hide_border=true&theme=github-compact&from=2024-9-01&days=50&area=true&area_color=006400)](https://github.com/schr0smi1ey/github-readme-activity-graph)
+[![Munia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=schr0smi1ey&custom_title=&hide_border=true&theme=github-compact&from=2024-9-01&days=50&area=true&area_color=006400)](https://github.com/schr0smi1ey/github-readme-activity-graph)
 <p align="middle"> 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Munia123333t&theme=microsoft-dark&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
