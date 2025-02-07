@@ -20,7 +20,7 @@
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFtYjNnbXFtanM1ZzlrbDNreHRpeW5vdmJhYmF5ZGYwNHdlbWNtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LlngFXftGiC6Ha4Wit/giphy.gif" width ="25"> Motto
 
-<div align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&weight=600&size=20&color=000000&background=36BCF7FF&multiline=true&width=650&height=220&lines=&nbsp;&nbsp;while(true);&nbsp;&nbsp;&nbsp;&nbsp;+brain.init();&nbsp;&nbsp;&nbsp;&nbsp;+if(+world.contains(challenge));&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;++s+%3D+learning.login(Schr0Smi1ey);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.explore();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.learn();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.build();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.conquer()"/></div>
+<div align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=1700&weight=600&size=20&color=000000&background=36BCF7FF&multiline=true&width=650&height=220&lines=&nbsp;&nbsp;while(true);&nbsp;&nbsp;&nbsp;&nbsp;+brain.init();&nbsp;&nbsp;&nbsp;&nbsp;+if(+world.contains(challenge));&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;++s+%3D+learning.login(Munia123333t);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.explore();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.learn();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.build();&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+s.conquer()"/></div>
 
 
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Munia123333t)](https://github.com/Munia123333t/github-profile-trophy) -->
